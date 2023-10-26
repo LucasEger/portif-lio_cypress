@@ -1,0 +1,13 @@
+nome;sobrenome;cpf;empresa;codigo_aluno;perfil;idioma;login;senha;liberar;matricula_treinamentos;matricula_treinamentos_validade;matricula_trilhas;matricula_trilhas_validade;enviar_email;telefone
+Aluno ;Teste;98956543089;1;;1;pt;aluno31@aluno31.com.br;123456;1;;;;;0;
+;Teste;42007557002;1;;1;pt;aluno32@aluno31.com.br;123456;1;;;;;0;
+Aluno ;;69869588034;1;;1;pt;aluno33@aluno31.com.br;123456;1;;;;;0;
+Aluno ;Teste;26784530810;1;;1;ot;aluno34@aluno31.com.br;123456;1;;;;;0;
+Aluno ;Teste;;1;;1;pt;aluno35@aluno31.com.br;123456;1;;;;;0;
+Aluno ;Teste;40675151031;;;1;pt;aluno36@aluno31.com.br;123456;1;;;;;0;
+Aluno ;Teste;49282259021;1;;;pt;aluno37@aluno31.com.br;123456;1;;;;;0;
+Aluno ;Teste;47593905020;1;;1;pt;;123456;1;;;;;0;
+Aluno ;Teste;96474402008;1;;1;pt;aluno@aluno.com.br;123456;1;;;;;0;
+Aluno ;Teste;33817081049;1;;1;pt;aluno38@aluno31.com.br;;1;;;;;0;
+Aluno ;Teste;13666363091;1;;1;pt;aluno31aluno31.com.br;123456;1;;;;;0;
+Aluno ;Teste;38144997000;asd;;1;pt;aluno40@aluno31.com.br;123456;1;;;;;0;
