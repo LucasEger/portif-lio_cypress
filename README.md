@@ -1,15 +1,15 @@
 # Testes-Automatizados-Cypress
-Portifólio de testes automatizados web e api em cypress em um sistema de universidade corporativa.
+Portifólio de testes automatizados web e api em Cypress em um sistema de universidade corporativa.
 
-Neste portifólio são executados 5 testes automatizados utilizando cypress em um ambiente de homologacção controlado, 3 são WEB  e 2 em API, dentre estes testes existem rotinas de verificações em campos obrigatórios, campos com preenchimento incorreto, cadastro, alteração e exclusão de dados, upload em planilha de importação e verificação de dados. 
+Neste portifólio são executados 5 testes automatizados utilizando Cypress em um ambiente de homologação controlado, 3 são WEB  e 2 em API, dentre estes testes existem rotinas de verificações em campos obrigatórios, campos com preenchimento incorreto, cadastro, alteração e exclusão de dados, upload em planilha de importação e verificação de dados. 
 
 Todos os testes são recicláveis, podendo ser rodados sempre sem qualquer interação ou reset de configuração manualmente. 
 
 Em testes de api, utilizo variáveis para armazenar o id criado no cadastro do aluno e utilizar na consulta de alteração e exclusão. 
 
-Estes testes estão com integração com o github actions, para executar os testes basta acessar o menu de "Actions", clicar em "Update" e clicar em "Re-run all jobs", os testes vão começar a serem executados,
+Estes testes estão com integração com o github actions.
 
-Abaixo está espeficicado com a descrição dos testes, o caminho para o código e quais validações é executada,
+Abaixo está especificado com a descrição dos testes, o caminho para o código e quais validações é executada,
 
 _________________________________
 WEB: 
