@@ -1,0 +1,172 @@
+Resultado da execução dos testes, com o tempo de cada teste e a quantidade:  
+
+ Validações Cadastro de usuário Kubo
+    ✓ Validação Aluno - Digite um nome (9676ms)
+    ✓ Validação Aluno - Digite um sobrenome (3961ms)
+    ✓ Validação Aluno - e-mail em branco (3445ms)
+    ✓ Validação Aluno - E-mail já cadastrado anteriormente! Tente outro endereço. (3774ms)
+    ✓ Validação Aluno - E-mail não válido (3743ms)
+    ✓ Validação Aluno - CPF é inválido (3581ms)
+    ✓ Validação Aluno - CPF ja cadastrado anteriormente (3854ms)
+    ✓ Validação Aluno - Selecione uma empresa (3481ms)
+    ✓ Validação Aluno - Selecione um perfil (3646ms)
+    ✓ Aluno - Cadastro (3984ms)
+    ✓ Aluno - Alteração dos dados (8644ms)
+    ✓ Aluno - Excluindo aluno cadastrado (6409ms)
+
+
+  12 passing (1m)
+
+
+  (Results)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Tests:        12                                                                               │
+  │ Passing:      12                                                                               │
+  │ Failing:      0                                                                                │
+  │ Pending:      0                                                                                │
+  │ Skipped:      0                                                                                │
+  │ Screenshots:  0                                                                                │
+  │ Video:        false                                                                            │
+  │ Duration:     1 minute, 2 seconds                                                              │
+  │ Spec Ran:     Aluno.cy.js                                                                      │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                    
+  Running:  Aluno_API.cy.js                                                                 (2 of 5)
+
+
+  Aluno API
+    ✓ Cadastro de Aluno (258ms)
+    ✓ Alteração do aluno (219ms)
+    ✓ Exclusão aluno (193ms)
+
+
+  3 passing (763ms)
+
+
+  (Results)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Tests:        3                                                                                │
+  │ Passing:      3                                                                                │
+  │ Failing:      0                                                                                │
+  │ Pending:      0                                                                                │
+  │ Skipped:      0                                                                                │
+  │ Screenshots:  0                                                                                │
+  │ Video:        false                                                                            │
+  │ Duration:     0 seconds                                                                        │
+  │ Spec Ran:     Aluno_API.cy.js                                                                  │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                    
+  Running:  Importação Aluno.cy.js                                                          (3 of 5)
+
+
+  Importação de usuário
+    ✓ Inserção de arquivo, cadastro e validações (9104ms)
+    ✓ Exclusão do usuário cadastrado via planilha (6567ms)
+
+
+  2 passing (18s)
+
+
+  (Results)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Tests:        2                                                                                │
+  │ Passing:      2                                                                                │
+  │ Failing:      0                                                                                │
+  │ Pending:      0                                                                                │
+  │ Skipped:      0                                                                                │
+  │ Screenshots:  0                                                                                │
+  │ Video:        false                                                                            │
+  │ Duration:     18 seconds                                                                       │
+  │ Spec Ran:     Importação Aluno.cy.js                                                           │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                    
+  Running:  Login Aluno API.cy.js                                                           (4 of 5)
+
+
+  Login aluno API
+    ✓ Login com sucesso (224ms)
+    ✓ Login incorreto (162ms)
+    ✓ Login com login em branco (149ms)
+    ✓ Login com senha em branco (147ms)
+
+
+  4 passing (808ms)
+
+
+  (Results)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Tests:        4                                                                                │
+  │ Passing:      4                                                                                │
+  │ Failing:      0                                                                                │
+  │ Pending:      0                                                                                │
+  │ Skipped:      0                                                                                │
+  │ Screenshots:  0                                                                                │
+  │ Video:        false                                                                            │
+  │ Duration:     0 seconds                                                                        │
+  │ Spec Ran:     Login Aluno API.cy.js                                                            │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                    
+  Running:  Login Aluno.cy.js                                                               (5 of 5)
+
+
+  Login Aluno
+    ✓ Login do Aluno (5953ms)
+    ✓ E-mail incorreto (1319ms)
+    ✓ Senha inválida (1431ms)
+    ✓ E-mail em branco (1021ms)
+    ✓ Senha em branco (1159ms)
+    ✓ Aluno desativado (1547ms)
+
+
+  6 passing (15s)
+
+
+  (Results)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Tests:        6                                                                                │
+  │ Passing:      6                                                                                │
+  │ Failing:      0                                                                                │
+  │ Pending:      0                                                                                │
+  │ Skipped:      0                                                                                │
+  │ Screenshots:  0                                                                                │
+  │ Video:        false                                                                            │
+  │ Duration:     15 seconds                                                                       │
+  │ Spec Ran:     Login Aluno.cy.js                                                                │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+====================================================================================================
+
+  (Run Finished)
+
+
+       Spec                                              Tests  Passing  Failing  Pending  Skipped  
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ ✔  Aluno.cy.js                              01:02       12       12        -        -        - │
+  ├────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ ✔  Aluno_API.cy.js                          768ms        3        3        -        -        - │
+  ├────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ ✔  Importação Aluno.cy.js                   00:18        2        2        -        -        - │
+  ├────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ ✔  Login Aluno API.cy.js                    819ms        4        4        -        -        - │
+  ├────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ ✔  Login Aluno.cy.js                        00:15        6        6        -        -        - │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+    ✔  All specs passed!                        01:37       27       27        -        -        -  
