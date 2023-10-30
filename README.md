@@ -9,7 +9,7 @@ Em testes de api, utilizo variáveis para armazenar o id criado no cadastro do a
 
 Estes testes estão com integração com o github actions.
 
-Abaixo está especificado com a descrição dos testes, o caminho para o código e quais validações é executada,
+Abaixo está especificado com a descrição dos testes, o caminho para o código e quais validações é executada, no arquivo portifolio_cypress/resultados está o tempo e quantidade de testes totais executadas.
 
 _________________________________
 WEB: 
